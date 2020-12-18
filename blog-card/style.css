@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+}
+
+.card{
+    width: 250px;
+    height: 375px;
+    box-shadow: 0px 5px 15px rgb(136, 130, 130);
+    float: left;
+    margin-right: 25px;
+}
+
+.card__container{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.card__header__image img{
+    position:relative;
+    width:100%;
+}
+
+.card__header_p{
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.card__body__p{
+    margin-bottom: 40px;
+    color: #94928f;
+    font-size: 12px;
+}
+
+.card__footer__a{
+    color: #94928f;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.card--margin{
+    margin-left: 23%;
+}
