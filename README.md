@@ -2,4 +2,4 @@
 
 Homeworks for Kodluyoruz front-end 101 bootcamp
 
-Medi- Figma: https://codepen.io/tayfunyazici/pen/rNMGVJo
+Medi- Codepen: https://codepen.io/tayfunyazici/pen/rNMGVJo
