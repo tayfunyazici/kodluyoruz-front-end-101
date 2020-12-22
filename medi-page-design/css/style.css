@@ -1,0 +1,61 @@
+:root {
+  --c-nav-link: #1B0A42;
+  --c-button-bg: #4F56F1;
+  --c-white: #fff;
+  --f-size: 16px;
+  --f-size-title: 62px;
+  --f--weight:400;
+}
+
+.nav-item a {
+  font-family: 'Roboto', sans-serif;
+  font-size: var(--f-size);
+  font-weight: var(--f-weigth);
+  color: var(--c-nav-link) !important;
+}
+
+.button {
+  color: var(--c-white);
+  border: none;
+  background-color: var(--c-button-bg);
+  font-size: var(--f-size);
+  font-weight: 700;
+  border-radius: 6px;
+  padding: 10px 20px;
+}
+
+.button--large {
+  padding: 12px 24px;
+}
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+}
+
+.container .title {
+  font-family: "Ramaraja";
+  font-size: var(--f-size-title);
+  font-weight: var(--f-weigth);
+  line-height: 1;
+}
+
+.container .content {
+  font-size: var(--f-size);
+  color: #9A9A9A;
+}
+
+.container img {
+  width: 600px;
+  height: 550px;
+}
+/*# sourceMappingURL=style.css.map */
